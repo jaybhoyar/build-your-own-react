@@ -1,0 +1,12 @@
+{
+	"name": "diy-react",
+	"version": "1.0.0",
+	"description": "An alternative to React",
+	"license": "MIT",
+	"repository": "jaybhoyar/diy-react",
+	"author": "jay@Altcampus",
+	"main": "main.js",
+	"keywords": [
+		"react"
+	]
+}
